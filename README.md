@@ -1,3 +1,5 @@
+![NewSpring Church](http://ns.images.s3.amazonaws.com/newspring/icons/newspring-church-logo-black.png "NewSpring Church")
+
 # NewSpring Church Annual Report v3.0 (2014)
 
 ## 1. Download & Install NormaJS
