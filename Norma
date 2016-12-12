@@ -1,0 +1,12 @@
+name: "AnnualReport"
+
+tasks:
+
+  sass:
+    src: "stylesheets/*"
+    combine: false
+    dest: "out/"
+
+  livereload:
+    endpoint: "NewSpring/norma-livereload"
+    dev: true

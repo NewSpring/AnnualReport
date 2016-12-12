@@ -1,0 +1,50 @@
+
+/*
+
+Name: NewSpring Church Annual Report 2012
+URL: http://www.newspring.cc/annualreport
+Version: 1.0
+Authors: Joshua Blankenship, Jon Horton, Drew Delianides
+
+The CSS, HTML and design is copyright (c) 2012, all rights reserved.
+
+
+     ,---,    ,----..       ,----..       ,----..       ,----..       ,----..
+  ,`--.' |   /   /   \     /   /   \     /   /   \     /   /   \     /   /   \
+ /    /  :  /   .     :   /   .     :   /   .     :   /   .     :   /   .     :
+:    |.' ' .   /   ;.  \ .   /   ;.  \ .   /   ;.  \ .   /   ;.  \ .   /   ;.  \
+`----':  |.   ;   /  ` ;.   ;   /  ` ;.   ;   /  ` ;.   ;   /  ` ;.   ;   /  ` ;
+   '   ' ;;   |  ; \ ; |;   |  ; \ ; |;   |  ; \ ; |;   |  ; \ ; |;   |  ; \ ; |
+   |   | ||   :  | ; | '|   :  | ; | '|   :  | ; | '|   :  | ; | '|   :  | ; | '
+   '   : ;.   |  ' ' ' :.   |  ' ' ' :.   |  ' ' ' :.   |  ' ' ' :.   |  ' ' ' :
+   |   | ''   ;  \; /  |'   ;  \; /  |'   ;  \; /  |'   ;  \; /  |'   ;  \; /  |
+   '   : | \   \  ',  /  \   \  ',  /__\   \  ',  /  \   \  ',  /  \   \  ',  /
+   ;   |.'  ;   :    /    ;   :    /  .\;   :    /    ;   :    /    ;   :    /
+   '---'     \   \ .'      \   \ .'\_ ; |\   \ .'      \   \ .'      \   \ .'
+              `---`         `---`  /  ,"  `---`         `---`         `---`
+                                  '--'
+
+*/
+
+
+/* DAT GRID
+-------------------------------------------------- */
+@import "annualreport/bootstrap.min";
+@import "annualreport/bootstrap-responsive.min";
+
+/* WEB FONTS
+-------------------------------------------------- */
+
+@import "../fonts/chartwell";
+@import "../fonts/bitter";
+@import "../fonts/standard/regular";
+@import "../fonts/standard/medium";
+@import "../fonts/standard/extralight";
+@import "../fonts/standard/extrabold";
+@import "../fonts/standard/condensed-bold";
+@import "../fonts/font-awesome/font-awesome";
+
+
+/* Main Stylesheet
+-------------------------------------------------- */
+@import "annualreport/main";
